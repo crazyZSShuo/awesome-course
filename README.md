@@ -3,15 +3,25 @@
 # 学习福利
 
 Python3 入门机器学习经典算法与应用	https://pan.baidu.com/s/1iwCntHaNzNx02JjNlKCNTw	slyf
+
 前端开发工程师	https://pan.baidu.com/s/1MaEYK6dNKFgKGbeNhBGKRg	8pzc
+
 Java 开发工程师	https://pan.baidu.com/s/1hhMQaPDitQL_EH0F5KrBDA	hxdx
+
 安卓开发工程师	https://pan.baidu.com/s/1FJm7Ro_al6fr503Fmtb2Ow	jt16
+
 Nginx 从入门到实践	https://pan.baidu.com/s/1xuc8B37uw9oS8F5Y3Wpf7Q	huj7
+
 JMeter 深入进阶性能测试体系 各领域企业实战	https://pan.baidu.com/s/1oGzEKKv5mU0lfcDdAz-4Ug	88w0
+
 Jenkins+Ansible+Gitlab 自动化部署三剑客	https://pan.baidu.com/s/1KYTxxCf26vArgG5jWLT_sg	s4mv
+
 Android 自动化测试实战 Java 篇 主流工具 框架 脚本	https://pan.baidu.com/s/1aslkx-zcuOoJFI2_K4eW9Q	fp71
+
 快速上手 Linux 玩转典型应用	https://pan.baidu.com/s/1ZwoHN4CnyYXoAEWPDRuysQ	a2si
+
 新版 React Native+Redux 打造高质量上线 App	https://pan.baidu.com/s/1xQ4wojV8vhZ5mA2uuZVg4Q	off5
+
 移动端 App UI 设计入门与实战	https://pan.baidu.com/s/17I7Jd5V-l1JGJaiItEQuTg	3syh
 中小型企业通用自动化运维架构	https://pan.baidu.com/s/1rAJ2c_Z0WcZXgqk6WprLRA	i9ec
 最火 Python3 玩转实用小工具	https://pan.baidu.com/s/1qhBRVT1QSrfZ3OE4Br78Hw	t21r
