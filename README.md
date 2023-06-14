@@ -1,7 +1,7 @@
 # awesome-course
 
 # 课程均来自互联网
-## 来者自取
+
 
 Python3 入门机器学习经典算法与应用	https://pan.baidu.com/s/1iwCntHaNzNx02JjNlKCNTw	slyf
 
